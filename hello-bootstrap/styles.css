@@ -1,0 +1,14 @@
+
+.container {
+    background-color: yellow;
+    margin-bottom: 50px;
+    
+}
+
+.container-fluid {
+    background-color: yellowgreen;
+}
+
+.col-12 {
+    border: 2px solid black;
+}
