@@ -12,3 +12,12 @@
 .col-12 {
     border: 2px solid black;
 }
+
+.progress {
+    margin-bottom: 20px;
+}
+
+.texto {
+    width: 200px;
+    height: 300px;
+}
